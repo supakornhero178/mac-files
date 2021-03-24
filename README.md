@@ -2,4 +2,4 @@
 
 I keep some of my macintosh work here. Check it out!
 
-&copy Created by SupakornHero178 Productions.
+&copy; Created by SupakornHero178 Productions.
