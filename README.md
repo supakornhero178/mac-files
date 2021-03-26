@@ -5,7 +5,7 @@ I keep some of my macintosh work here. Check it out!
 I have three folders :
 1. `Useful files`
 2. `School work`
-3. `Chinese Interactive
+3. `Chinese Interactive`
 
 In my `Useful files` folder, I keep some useful files, images, some random art I made in my free time, and some of my school work too.
 
